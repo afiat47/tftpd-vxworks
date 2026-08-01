@@ -359,10 +359,6 @@ Session lifecycle events are logged through `syslog()` — completions at `LOG_I
 
 ---
 
-## Design document
-
-The full specification, including functional and performance requirements, pseudocode for every procedure, and detailed interface definitions, is in [`docs/Design_of_tftpd_version_2.pdf`](docs/Design_of_tftpd_version_2.pdf).
-
 **Referenced standards**
 
 - RFC 1350 — The TFTP Protocol (Revision 2)
