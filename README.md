@@ -374,4 +374,4 @@ The full specification, including functional and performance requirements, pseud
 
 ## Author
 
-**Afiat Khan Tahsin** — BDCOM Online Technologies
+**Afiat Khan Tahsin** 
